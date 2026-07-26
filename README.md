@@ -301,6 +301,28 @@ Some ideas for going further:
 
 ---
 
+---
+
+#  Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshots/overview.png)
+
+---
+
+### Team Analysis
+
+![Team Analysis](screenshots/team-analysis.png)
+
+---
+
+### Match Analysis
+
+![Match Analysis](screenshots/match-analysis.png)
+
+---
+
 ## License
 
 MIT — free to use for portfolio, learning, and personal projects.
