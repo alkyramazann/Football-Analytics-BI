@@ -66,8 +66,8 @@ Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, and mor
 
 ```bash
 # Clone the project
-git clone https://github.com/yourname/football-analytics.git
-cd football-analytics
+git clone https://github.com/alkyramazann/Football-Analytics-BI.git
+cd Football-Analytics-BI
 
 # Create virtual environment
 python -m venv .venv
