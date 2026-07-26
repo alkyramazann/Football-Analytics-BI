@@ -1,7 +1,18 @@
-# ⚽ Football Analytics Platform
+#  Football Analytics BI
 
-> End-to-end football data pipeline, analytics warehouse, and BI dashboard  
-> Built with Python · PostgreSQL · Football-Data.org · Power BI · scikit-learn
+> End-to-end football analytics project featuring ETL pipelines, PostgreSQL, SQL analytics, Power BI dashboards, and machine learning.
+
+**Python • PostgreSQL • SQL • Power BI • ETL • Machine Learning**
+
+<p align="left">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+
+</p>
 
 ---
 
@@ -17,6 +28,36 @@ This project demonstrates a complete data engineering and analytics workflow app
 **Predict** match outcomes using a Random Forest classifier
 
 ---
+
+---
+
+# 🏗️ Architecture
+
+```text
+Football-Data.org API
+            │
+            ▼
+      Python ETL Pipeline
+            │
+            ▼
+     Data Transformation
+            │
+            ▼
+   PostgreSQL Data Warehouse
+            │
+            ▼
+      Advanced SQL Queries
+            │
+            ├──────────────┐
+            ▼              ▼
+    Power BI Dashboard   Machine Learning
+            │              │
+            └──────┬───────┘
+                   ▼
+          Business Insights
+```
+
+The project follows a complete end-to-end analytics workflow, starting from data extraction through the Football-Data.org API, transforming and loading data into a PostgreSQL data warehouse, performing SQL-based analytics, visualizing insights in Power BI, and applying machine learning for match outcome prediction.
 
 ## Project Structure
 
